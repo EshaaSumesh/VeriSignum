@@ -1,0 +1,92 @@
+[
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d101" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a101" },
+    "userId": { "$oid": "64bfaaaa1111111111111111" },
+    "signedAt": { "$date": "2025-07-01T10:10:00Z" },
+    "signatureType": "drawn",
+    "device": "Chrome on Windows",
+    "ipAddress": "192.168.1.12"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d102" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a102" },
+    "userId": { "$oid": "64bfaaaa1111111111111112" },
+    "signedAt": { "$date": "2025-07-02T11:45:00Z" },
+    "signatureType": "typed",
+    "device": "Edge on Windows",
+    "ipAddress": "10.0.0.25"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d103" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a103" },
+    "userId": { "$oid": "64bfaaaa1111111111111113" },
+    "signedAt": { "$date": "2025-07-03T09:30:00Z" },
+    "signatureType": "uploaded",
+    "device": "Firefox on Linux",
+    "ipAddress": "172.16.5.8"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d104" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a104" },
+    "userId": { "$oid": "64bfaaaa1111111111111114" },
+    "signedAt": { "$date": "2025-07-04T15:00:00Z" },
+    "signatureType": "biometric",
+    "device": "Safari on iOS",
+    "ipAddress": "203.0.113.5"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d105" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a105" },
+    "userId": { "$oid": "64bfaaaa1111111111111115" },
+    "signedAt": { "$date": "2025-07-05T10:00:00Z" },
+    "signatureType": "typed",
+    "device": "Brave on MacOS",
+    "ipAddress": "185.103.15.77"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d106" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a106" },
+    "userId": { "$oid": "64bfaaaa1111111111111116" },
+    "signedAt": { "$date": "2025-07-06T13:15:00Z" },
+    "signatureType": "drawn",
+    "device": "Opera on Android",
+    "ipAddress": "10.5.5.5"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d107" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a107" },
+    "userId": { "$oid": "64bfaaaa1111111111111117" },
+    "signedAt": { "$date": "2025-07-07T11:20:00Z" },
+    "signatureType": "typed",
+    "device": "Safari on Mac",
+    "ipAddress": "172.25.1.1"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d108" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a108" },
+    "userId": { "$oid": "64bfaaaa1111111111111118" },
+    "signedAt": { "$date": "2025-07-07T15:30:00Z" },
+    "signatureType": "uploaded",
+    "device": "Chrome on Linux",
+    "ipAddress": "10.10.10.20"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d109" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a109" },
+    "userId": { "$oid": "64bfaaaa1111111111111119" },
+    "signedAt": { "$date": "2025-07-08T10:45:00Z" },
+    "signatureType": "biometric",
+    "device": "Edge on Windows",
+    "ipAddress": "10.0.1.11"
+  },
+  {
+    "_id": { "$oid": "64cfdd01d1d1d1d1d1d1d10a" },
+    "documentId": { "$oid": "64cfa101a1a1a1a1a1a1a10a" },
+    "userId": { "$oid": "64bfaaaa111111111111111a" },
+    "signedAt": { "$date": "2025-07-09T14:00:00Z" },
+    "signatureType": "drawn",
+    "device": "Chrome on iPadOS",
+    "ipAddress": "10.9.9.9"
+  }
+]
